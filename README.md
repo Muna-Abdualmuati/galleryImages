@@ -1,2 +1,1 @@
-# galleryImages
-Prep phase final project
+# Image_Gallery
